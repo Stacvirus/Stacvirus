@@ -2,7 +2,7 @@
 - 👀 I’m interested in network security
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on developement of web applications
-- 📫 How to reach me whatsapp number +237-680-528-561 
+- 📫 How to reach me whatsapp number +237-680-528-561 and email address **parfaitandre5@gmail.com** 
 
 <!---
 Stacvirus/Stacvirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
