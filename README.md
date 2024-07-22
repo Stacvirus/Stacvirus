@@ -1,6 +1,6 @@
 # 👋 Stacvirus
   
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Animes enthousiast)`**
 
 - 👀 I’m interested in network security
 - 🌱 I’m currently learning web developement
