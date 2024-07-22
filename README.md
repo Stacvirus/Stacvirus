@@ -23,11 +23,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="docker" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="moongodb" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="postgresql" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="moongodb" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="arduino" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" />
 <br />
 
 #
